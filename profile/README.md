@@ -1,4 +1,4 @@
-WorkCrew AI
+# WorkCrewAI
 
 We believe blue-collar businesses — the backbone of our communities — deserve modern, AI-powered tools built for them, not retrofitted for someone else.
 
