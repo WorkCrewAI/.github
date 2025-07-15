@@ -5,6 +5,7 @@ We believe blue-collar businesses — the backbone of our communities — deserv
 We exist to replace outdated, manual workflows with practical automation that’s as tough and dependable as the crews who rely on it.
 
 Our Promise:
+
 ✅ Keep operations simple and rock-solid — no bloat, no unnecessary complexity.
 
 ✅ Use AI to make people better at what they already do: predicting costs, scheduling smarter, reordering inventory before it runs out.
